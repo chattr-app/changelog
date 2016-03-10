@@ -2,14 +2,21 @@
 
 ### 2016-03-10
 
+##### Enhancements :+1:
+
+* We added a **scheduling system** to your widgets!
+* We changed **default image** for all of our widgets, let us introduce you Lexa!
+
+##### Bugfix :muscle:
+
+* Fix bug when visitors sent emojis, they are now well translated.
+
 ---------------------------------------------
 
 ### 2016-03-09
 
 ##### Enhancements :+1:
 
-* We added a **scheduling system** to your widgets!
-* We changed **default image** for all of our widgets, let us introduce you Lexa!
 * `_slaask.identify()` function in now **100% available** for free plans.
 * Even when **isolated in a message**, emoticons are now well translated into emojis :tada:.
 * Add **filters** for archived conversations.
@@ -20,7 +27,6 @@
 * Some users were affected by **canned responses issues**, they can now use canned responses normally.
 * Fix bug when a team member **close a channel manually** and the visitor restarted conversation.
 * Fix bug when trying to set a **widget image** with a length superior to 255 caracters.
-* Fix bug when visitors sent emojis, they are now well translated.
 
 ---------------------------------------------
 
