@@ -5,11 +5,17 @@
 ##### Enhancements :+1:
 
 * We added a **scheduling system** to your widgets!
+* You can now **share images** to your visitors by uploading them to Slack.
+* **New markdown parser**, your messages are now super classy :princess:
+* Slack team members not invited to Slaask on your [collaborators](https://slaask.com/collaborators) page won't be able to answer to visitors.
+* **New default icons set** is now available in our documentation!
 * We changed **default image** for all of our widgets, let us introduce you Lexa!
 
 ##### Bugfix :muscle:
 
-* Fix bug when visitors sent emojis, they are now well translated.
+* Widget is now **available** from your **widget edit page!**
+* Fix bug when **visitors sent emojis**, they are now well translated.
+* Fix bug on **`!close` command** for new users.
 
 ---------------------------------------------
 
