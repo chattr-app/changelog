@@ -1,5 +1,18 @@
 # [Slaask](https://slaask.com) changelog
 
+### 2016-04-10
+
+##### Enhancements :+1:
+
+* We added an **easy navigation button** on your widget page.
+* **Tags are now available** for your visitors! See in our [commands](https://slaask.com/commands) page!
+
+##### Bugfix :muscle:
+
+* Fix bug for new users when a **returning user** restart a conversation.
+
+---------------------------------------------
+
 ### 2016-03-10
 
 ##### Enhancements :+1:
