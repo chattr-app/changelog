@@ -1,6 +1,6 @@
 # [Slaask](https://slaask.com) changelog
 
-### 2016-04-10
+### 2016-03-11
 
 ##### Enhancements :+1:
 
