@@ -1,5 +1,19 @@
 # [Slaask](https://slaask.com) changelog
 
+### 2016-03-13
+
+##### Enhancements :+1:
+
+* You can now use **simplified markdown** in your greetings message!
+* You can now create **multiple Slaask accounts** with the **same email**!
+
+##### Bugfix :muscle:
+
+* Fix 500 error on schedule page for some users.
+* Fix bug when new users are trying to create two accounts with the same email
+
+---------------------------------------------
+
 ### 2016-03-11
 
 ##### Enhancements :+1:
